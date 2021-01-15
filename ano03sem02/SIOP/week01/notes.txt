@@ -1,0 +1,29 @@
+intro
+gestao de processos
+gestao de processos
+
+
+
+livros
+modern operating systems, andrew s. tanenbaw...
+silberschatz, operating systems concepts
+
+
+1 teste 50%
+1 trabalho (projecto) 50%
+
+pratica: programacao
+linguagem: java(socket), c(gestao de memorias), c++
+
+
+
+SO -> maquina virtual de gestao de recursos
+programa => codigo => processo
+
+
+Servicos do SO
+
+
+baixar source code linux (
+  https://www.kernel.org
+)

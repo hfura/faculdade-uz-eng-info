@@ -1,0 +1,4 @@
+ARVORES BINARIAS mais de duas folhas em cada no
+fazer um programa capaz de fazer buscas em C
+  por largura
+  por profundidade

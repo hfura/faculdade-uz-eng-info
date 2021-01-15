@@ -1,0 +1,14 @@
+fazer curso de INAR da microsoft
+
+
+1.  Listas encadeadas, pilhas e filas são estruturas de dados lineares. Uma árvore é uma estrutura de dados não linear, bidimen-
+sional, com propriedades especiais. Três nós contêm dois ou mais links. Esta seção discute as árvores binárias (Figura 12.17) — ár-
+vores em que todos os nós contêm dois links (dos quais um, ambos ou nenhum podem ser NULL ). O nó raiz é o primeiro nó em uma
+árvore. Cada link no nó raiz refere-se a um filho. O filho esquerdo é o primeiro nó da subárvore esquerda, e o filho direito é o
+primeiro nó da subárvore direita. Os filhos de um mesmo nó são chamados de irmãos. Um nó sem filhos é chamado de nó folha.
+Os cientistas da computação normalmente desenham árvores do nó raiz para baixo — exatamente o oposto das árvores na natureza.
+Nesta seção, é criada uma árvore binária especial, chamada de árvore binária de busca. Caracteristicamente, em uma árvore
+binária de busca (sem valores de nó duplicados), os valores em qualquer subárvore esquerda são menores do que o valor em seu nó
+pai, e os valores em qualquer subárvore direita são maiores que o valor em seu nó pai. A Figura l2.18 ilustra uma árvore binária de
+busca com 12 valores. A forma da árvore binária de busca que corresponde a um conjunto de dados pode variar, dependendo da ordem
+em que os valores são inseridos na árvore.
